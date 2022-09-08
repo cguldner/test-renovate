@@ -1,3 +1,6 @@
 [submodule "tiki-toki"]
 	path = tiki-toki
 	url = https://github.com/cguldner/tiki-toki-csv.git
+[submodule "StandUp"]
+	path = StandUp
+	url = https://github.com/cguldner/StandUp.git
